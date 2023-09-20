@@ -1,0 +1,87 @@
+.contenedor{
+    width: 1330px;
+    height: 100px;
+    margin: 10px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;    
+    
+}
+
+.titulo{
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    margin: 30px;
+    font-size: 40px;
+}
+
+.caja img{
+    width: 60px;
+    height: 80px;
+    margin: 10px;
+}
+
+.caja2 {
+    background-color: beige;
+    width: 80px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caja3 {
+    background-color: beige;
+    width: 80px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caja4 {
+    background-color: beige;
+    width: 80px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inicios{
+    width: 1330px;
+    height: 500px;
+    margin: 10px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: first baseline;    
+}
+
+.info{
+    text-align: justify;
+    margin: 15px;
+    font-size: 20px;
+}
+
+.porta{
+    width: 1330px;
+    height: 500px;
+    margin: 10px;
+    background-color: lightblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction:row;
+    align-items: first baseline;    
+}
+
+.image img{
+    width: 320px;
+    height: 200px;
+    margin: 10px;
+}
